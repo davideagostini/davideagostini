@@ -6,6 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/DavideAgostini?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: DavideAgostini](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/davideagostini/)][linkedin]
 
+<br />
+
 🔭  I’m a software engineer living in Italy. I work on development team at [Synapses](https://www.synapseslab.com/) where leading all aspects of Android development. For more information about my works visit my [website](https://davideagostini.com).
 
 I building mobile applications for clients like Fondazione Agnelli, Siemens and Angelini.
