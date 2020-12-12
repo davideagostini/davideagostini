@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">Android developer. On a mission to inspire and teach others. Currently studying Flutter. 💙</h3>
 
+<div align="center">
 [![Youtube](https://img.shields.io/static/v1?label=DavideAgostini&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/DavideAgostini?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/DavideAgostini?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: DavideAgostini](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/davideagostini/)][linkedin]
+</div>
 
 🔭  I’m a software engineer living in Italy. I work on development team at [Synapses](https://www.synapseslab.com/) where leading all aspects of Android development. For more information about my works visit my [website](https://davideagostini.com).
 
