@@ -52,7 +52,6 @@ I worked also as freelance developer for a few startups like [Prestofood](https:
 - [Android: Follow the best practice for create a Splash Screen](https://davideagostini.com/android-follow-the-best-practice-for-create-a-splash-screen)
 - [Android: How to create a custom Toast](https://davideagostini.com/android-how-to-create-a-custom-toast)
 - [Android: How to create a pulse animation button](https://davideagostini.com/android-how-to-create-a-pulse-animation-button)
-- [Flutter Tutorial - Switch - Deep Dive](https://www.youtube.com/watch?v=PVuJ-If0AuU)
 <!-- BLOG:END -->
 
 ➡️ &ensp;[more articles...](https://davideagostini.com)
