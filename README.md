@@ -48,6 +48,7 @@ I worked also as freelance developer for a few startups like [Prestofood](https:
 ### 📑 &ensp;Latest Articles
 
 <!-- BLOG:START -->
+- [Why you should learn Dart & Flutter in 2021](https://davideagostini.com/why-you-should-learn-dart-and-flutter-in-2021)
 - [Can anyone become a software developer?](https://davideagostini.com/can-anyone-become-a-software-developer)
 - [Android: Follow the best practice for create a Splash Screen](https://davideagostini.com/android-follow-the-best-practice-for-create-a-splash-screen)
 - [Android: How to create a custom Toast](https://davideagostini.com/android-how-to-create-a-custom-toast)
