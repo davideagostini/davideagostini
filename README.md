@@ -48,6 +48,7 @@ I worked also as freelance developer for a few startups like [Prestofood](https:
 ### 📑 &ensp;Latest Articles
 
 <!-- BLOG:START -->
+- [Build a production app in Flutter. Tic Tac Toe game](https://davideagostini.com/build-a-production-app-in-flutter-tic-tac-toe-game)
 - [Why you should learn Dart & Flutter in 2021](https://davideagostini.com/why-you-should-learn-dart-and-flutter-in-2021)
 - [Can anyone become a software developer?](https://davideagostini.com/can-anyone-become-a-software-developer)
 - [Android: Follow the best practice for create a Splash Screen](https://davideagostini.com/android-follow-the-best-practice-for-create-a-splash-screen)
