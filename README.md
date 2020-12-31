@@ -34,9 +34,10 @@ I worked also as freelance developer for a few startups like [Prestofood](https:
 ### Languages and Tools
 
 [<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][youtube]
+[<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][youtube]
 [<img align="left" alt=“Android” width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" />][youtube]
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
 
 
