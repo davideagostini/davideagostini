@@ -49,15 +49,13 @@ I worked also as freelance developer for a few startups like [Prestofood](https:
 ### 📑 &ensp;Latest Articles
 
 <!-- BLOG:START -->
-- [Build a production app in Flutter. Tic Tac Toe game](https://davideagostini.com/build-a-production-app-in-flutter-tic-tac-toe-game)
-- [Why you should learn Dart & Flutter in 2021](https://davideagostini.com/why-you-should-learn-dart-and-flutter-in-2021)
-- [Can anyone become a software developer?](https://davideagostini.com/can-anyone-become-a-software-developer)
-- [Android: Follow the best practice for create a Splash Screen](https://davideagostini.com/android-follow-the-best-practice-for-create-a-splash-screen)
-- [Android: How to create a custom Toast](https://davideagostini.com/android-how-to-create-a-custom-toast)
-- [Android: How to create a pulse animation button](https://davideagostini.com/android-how-to-create-a-pulse-animation-button)
+- [Build a production app in Flutter. Tic Tac Toe game](https://levelup.gitconnected.com/build-the-famous-tic-tac-toe-game-in-flutter-8c6464869bca)
+- [Why you should learn Dart & Flutter in 2021](https://davideagostini.medium.com/why-you-should-learn-dart-and-flutter-34286b517d6)
+- [Can anyone become a software developer?](https://medium.com/codex/can-anyone-become-a-software-developer-b880ec91614a)
+- [Create a Bouncing Button Animation in Flutter](https://davideagostini.medium.com/in-general-add-animations-to-your-applications-enriches-the-general-user-experience-68121522b57a)
 <!-- BLOG:END -->
 
-➡️ &ensp;[more articles...](https://davideagostini.com)
+➡️ &ensp;[more articles...](https://medium.com/@davideagostini)
 
 ---
 
