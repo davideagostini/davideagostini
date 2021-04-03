@@ -49,6 +49,7 @@ I worked also as freelance developer for a few startups like [Prestofood](https:
 ### 📑 &ensp;Latest Articles
 
 <!-- BLOG:START -->
+- [Build a web app with Flutter and deploy it to Firebase hosting](https://levelup.gitconnected.com/build-a-web-app-with-flutter-and-deploy-it-to-firebase-hosting-3ee020b0e3db)
 - [Build a production app in Flutter. Tic Tac Toe game](https://levelup.gitconnected.com/build-the-famous-tic-tac-toe-game-in-flutter-8c6464869bca)
 - [Why you should learn Dart & Flutter in 2021](https://davideagostini.medium.com/why-you-should-learn-dart-and-flutter-34286b517d6)
 - [Can anyone become a software developer?](https://medium.com/codex/can-anyone-become-a-software-developer-b880ec91614a)
