@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">Mobile developer. <br /> On a mission to inspire and teach others.</h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=DavideAgostini&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/DavideAgostini?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/DavideAgostini?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: DavideAgostini](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/davideagostini/)][linkedin]
@@ -24,7 +23,6 @@ I worked also as freelance developer for a few startups like [Prestofood](https:
 ### Connect with me
 
 [<img align="left" alt="Davide Agostini | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Davide Agostini | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Davide Agostini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Davide Agostini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Davide Agostini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -62,7 +60,6 @@ I worked also as freelance developer for a few startups like [Prestofood](https:
 
 [website]: https://davideagostini.com
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDavideAgostini&screen_name=DavideAgostini
-[youtube]: https://www.youtube.com/channel/UCcNRFlwcE10qXNxVGV4Votg?sub_confirmation=1
 [linkedin]: https://linkedin.com/in/davideagostini
 [github]: https://github.com/DavideAgostini
 [instagram]: https://www.instagram.com/davideagostini
