@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<h3 align="center">Mobile developer. <br /> On a mission to inspire and teach others.</h3>
+<h3 align="center">Mobile engineer.</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DavideAgostini?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/DavideAgostini?logo=GitHub&style=for-the-badge)][github]
