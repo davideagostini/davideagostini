@@ -7,17 +7,15 @@
 
 <br />
 
-🔭  I’m a software engineer living in Italy. I work on development team at [Synapses](https://www.synapseslab.com/) where leading all aspects of Android development. For more information about my works visit my [website](https://davideagostini.com).
+I love open source ❤️
 
-I building mobile applications for clients like Fondazione Agnelli, Siemens and Angelini.
+I’m a software engineer living in Italy. 
 
-I spent ~7 years working for school district as Computer Science teacher before moving definitively into mobile development.
+I enjoy making Android and Mac apps and share with others. Consider leaving a nice review, or a star in my repository.
 
-I worked also as freelance developer for a few startups like [Prestofood](https://www.foodys.it/), Arm23, [Red Raion](https://redraion.com/) and as consultant for [University of Catania](https://www.unict.it/).
+My dream is to become a full-time open-source developer, create lots of free applications, release source code for free and help others become excellent software craftsmen.
 
-⚡ I am interested in reading and football.
-
-🌱. I’m currently learning #Dart and #Flutter 💙 and it's awesome!
+Thank you for your support! 🙌
 
 
 ### Connect with me
