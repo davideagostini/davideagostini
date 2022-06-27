@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">Mobile engineer.</h3>
 
+<div align="center">
 [![Twitter Follow](https://img.shields.io/twitter/follow/DavideAgostini?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/DavideAgostini?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: DavideAgostini](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/davideagostini/)][linkedin]
+</div>
 
 <br />
 
