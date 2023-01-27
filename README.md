@@ -30,15 +30,6 @@ Thank you for your support! 🙌
 * Flutter
 
 
-## Connect with me
-
-[<img align="left" alt="Davide Agostini | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Davide Agostini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Davide Agostini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Davide Agostini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ---
 
 ## 📑 &ensp;Latest Articles
@@ -54,6 +45,8 @@ Thank you for your support! 🙌
 ➡️ &ensp;[more articles...](https://medium.com/@davideagostini)
 
 ---
+
+## Connect with me
 
 [website]: https://davideagostini.com
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDavideAgostini&screen_name=DavideAgostini
