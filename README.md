@@ -48,9 +48,8 @@ Thank you for your support! 🙌
 
 ## Connect with me
 
-[website]: https://davideagostini.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDavideAgostini&screen_name=DavideAgostini
-[linkedin]: https://linkedin.com/in/davideagostini
-[github]: https://github.com/DavideAgostini
-[instagram]: https://www.instagram.com/davideagostini
+[Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDavideAgostini&screen_name=DavideAgostini)
+[Linkedin](https://linkedin.com/in/davideagostini)
+[GitHub](https://github.com/DavideAgostini)
+[Instagram](https://www.instagram.com/davideagostini)
 
