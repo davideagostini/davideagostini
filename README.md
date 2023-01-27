@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">I like code 📱 💻</h3>
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/DavideAgostini?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/DavideAgostini?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: DavideAgostini](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/davideagostini/)][linkedin]
-
-
 <br />
 
 I love open source ❤️ I’m a software engineer living in Italy. I have spent most of the my career (10 years) leading Android development for startups.
@@ -48,8 +42,8 @@ Thank you for your support! 🙌
 
 ## Connect with me
 
-[Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDavideAgostini&screen_name=DavideAgostini)
-[Linkedin](https://linkedin.com/in/davideagostini)
-[GitHub](https://github.com/DavideAgostini)
-[Instagram](https://www.instagram.com/davideagostini)
+* [Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDavideAgostini&screen_name=DavideAgostini)
+* [Linkedin](https://linkedin.com/in/davideagostini)
+* [GitHub](https://github.com/DavideAgostini)
+* [Instagram](https://www.instagram.com/davideagostini)
 
