@@ -12,6 +12,7 @@ My dream is to become a full-time open-source developer, create lots of free app
 
 Thank you for your support! 🙌
 
+
 ## My main technology stack
 
 * Android SDK
@@ -23,8 +24,6 @@ Thank you for your support! 🙌
 * Dart
 * Flutter
 
-
----
 
 ## 📑 &ensp;Latest Articles
 
@@ -38,7 +37,6 @@ Thank you for your support! 🙌
 
 ➡️ &ensp;[more articles...](https://medium.com/@davideagostini)
 
----
 
 ## Connect with me
 
