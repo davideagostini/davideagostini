@@ -9,9 +9,8 @@
 
 <br />
 
-I love open source ❤️
-
-I’m a software engineer living in Italy. 
+I love open source ❤️ I’m a software engineer living in Italy. I have spent most of the my career (10 years) leading Android development for startups.
+I love work with extremely talented people and collaborate to make products that would make an immediate impact. I have excellent work ethics and I enjoy solving difficult challenges and learning from them. I consider myself a very social individual, creative, open-minded and with a great desire to learn.
 
 I enjoy making Android and Mac apps and share with others. Consider leaving a nice review, or a star in my repository.
 
@@ -19,8 +18,19 @@ My dream is to become a full-time open-source developer, create lots of free app
 
 Thank you for your support! 🙌
 
+## My main technology stack
 
-### Connect with me
+* Android SDK
+* Kotlin, Coroutines, Koin, Dagger/Hilt, Retrofit, Room
+* Jetpack Compose
+* Jeptack Navigation
+* MVVM + Clean Architecture
+* Firebase
+* Dart
+* Flutter
+
+
+## Connect with me
 
 [<img align="left" alt="Davide Agostini | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Davide Agostini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -29,7 +39,7 @@ Thank you for your support! 🙌
 
 <br />
 
-### Languages and Tools
+## Languages and Tools
 
 [<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][website]
 [<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][website]
@@ -44,7 +54,7 @@ Thank you for your support! 🙌
 
 ---
 
-### 📑 &ensp;Latest Articles
+## 📑 &ensp;Latest Articles
 
 <!-- BLOG:START -->
 - [Build a web app with Flutter and deploy it to Firebase hosting](https://levelup.gitconnected.com/build-a-web-app-with-flutter-and-deploy-it-to-firebase-hosting-3ee020b0e3db)
