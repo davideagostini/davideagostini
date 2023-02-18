@@ -12,6 +12,8 @@ My dream is to become a full-time open-source developer, create lots of free app
 
 Thank you for your support! 🙌
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=davideagostini)
+
 
 ## My main technology stack
 
@@ -23,6 +25,12 @@ Thank you for your support! 🙌
 * Firebase
 * Dart
 * Flutter
+
+## My apps
+
+| <img src="/images/tintracker.png" width="100" /> | <img src="/images/randa.png" width="100" /> | <img src="/images/blurry.png" width="100" />
+| - | - | - |
+| [Tintracker](https://play.google.com/store/apps/details?id=com.taimtracker)| [Randa](https://play.google.com/store/apps/details?id=com.davideagostini.randa) | [Blurry](https://play.google.com/store/apps/details?id=com.davideagostini.blurry) |
 
 
 ## 📑 &ensp;Latest Articles
