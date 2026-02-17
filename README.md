@@ -50,8 +50,6 @@ Leading the development of **BlueGPS**, an innovative indoor navigation platform
 
 ### Freelance Android Developer
 
-_2019 - Present_
-
 Building custom Android solutions for various clients:
 
 - **[Prestofood](https://www.foodys.it/)** - Developed a high-traffic food delivery app serving thousands of daily orders. Implemented real-time order tracking, push notifications, and secure payment integration.
@@ -62,7 +60,7 @@ Building custom Android solutions for various clients:
 
 ### Computer Science Educator
 
-_2011 - 2018
+2011 - 2018
 
 Teaching the next generation of developers:
 
