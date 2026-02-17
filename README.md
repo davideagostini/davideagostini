@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Android developer with 7+ years of experience in building high-performance mobile applications. My journey spans from teaching computer science to architecting secure, scalable mobile solutions for startups and enterprises.
+I'm a passionate Android developer with 7+ years of experience in building high-performance mobile applications.
 
 I specialize in creating robust mobile ecosystems that prioritize security without compromising performance. Whether it's implementing StrongBox Keymaster, optimizing massive Jetpack Compose layouts, or designing offline-first architectures, I love solving complex problems elegantly.
 
@@ -38,7 +38,7 @@ When I'm not coding, you'll find me writing technical blog posts about Android i
 
 ### Lead Android Engineer @ Synapses
 
-_2023 - Present_
+_2017 - Present_
 
 Leading the development of **BlueGPS**, an innovative indoor navigation platform. Architecting a scalable Android solution that combines high-precision positioning with an intuitive user experience.
 
@@ -62,7 +62,7 @@ Building custom Android solutions for various clients:
 
 ### Computer Science Educator
 
-_2017 - Present_
+_2011 - 2018
 
 Teaching the next generation of developers:
 
