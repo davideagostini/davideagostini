@@ -24,7 +24,7 @@
   Freelance Android Developer
 
   - [Prestofood](https://www.foodys.it/): high-traffic food delivery app, real-time tracking, push notifications, payments
-  - [Arm23](https://arm23.it/): biometric auth, encrypted local storage, privacy-focused data handling
+  - Arm23: biometric auth, encrypted local storage, privacy-focused data handling
   - [Red Raion](https://redraion.com/): immersive VR apps with 3D rendering and sensor integration
 
   Computer Science Educator (2011–2018)
