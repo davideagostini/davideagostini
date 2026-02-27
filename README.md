@@ -47,11 +47,11 @@
   - [WorkManager Deep Dive](https://www.davideagostini.com/android/2026-02-17-workmanager-deep-dive)
   - [Compose LazyColumn Stability Budget](https://www.davideagostini.com/android/2026-02-17-lazycolumn-stability-budget)
 
-  More: davideagostini.com (https://www.davideagostini.com)
+  More: [davideagostini.com](https://www.davideagostini.com/android)
 
   ## 📫 Connect
 
-  Twitter (https://x.com/davideagostini) • LinkedIn (https://www.linkedin.com/in/davideagostini/) • Medium (https://davideagostini.medium.com/) • Website (https://www.davideagostini.com)
+  [Twitter](https://x.com/davideagostini) • [LinkedIn](https://www.linkedin.com/in/davideagostini/) • [Medium](https://davideagostini.medium.com/) • [Website](https://www.davideagostini.com)
 
   ## 🤝 Open To
 
