@@ -43,11 +43,11 @@
   Latest posts:
 
 <!-- BLOG-POSTS:START -->
-- [Data Layer Foundations: Repository Pattern (Single Source of Truth)](https://davideagostini.com/android/2026-03-01-data-layer-foundations-repository-pattern-single-source-of-truth)
-- [Domain Layer Basics: Use Cases, Business Rules, and Testability](https://davideagostini.com/android/2026-02-28-domain-layer-basics-use-cases-business-rules-testability)
-- [UI Layer in Practice: State, Events, and UDF in Compose](https://davideagostini.com/android/2026-02-27-ui-layer-in-practice-state-events-and-udf-in-compose)
-- [Android Architecture Fundamentals: Layers, Boundaries, and Data Flow](https://davideagostini.com/android/2026-02-26-android-architecture-fundamentals)
-- [Baseline Profiles for Android: Faster Startup (Bad vs Good Patterns)](https://davideagostini.com/android/2026-02-25-baseline-profiles)
+- [Data Layer Foundations: Repository Pattern (Single Source of Truth)](https://davideagostini.com/android/2026-03-01-data-layer-foundations-repository-pattern-single-source-of-truth) (2026-03-01)
+- [Domain Layer Basics: Use Cases, Business Rules, and Testability](https://davideagostini.com/android/2026-02-28-domain-layer-basics-use-cases-business-rules-testability) (2026-02-28)
+- [UI Layer in Practice: State, Events, and UDF in Compose](https://davideagostini.com/android/2026-02-27-ui-layer-in-practice-state-events-and-udf-in-compose) (2026-02-27)
+- [Android Architecture Fundamentals: Layers, Boundaries, and Data Flow](https://davideagostini.com/android/2026-02-26-android-architecture-fundamentals) (2026-02-26)
+- [Baseline Profiles for Android: Faster Startup (Bad vs Good Patterns)](https://davideagostini.com/android/2026-02-25-baseline-profiles) (2026-02-25)
 <!-- BLOG-POSTS:END -->
 
   More: [davideagostini.com](https://www.davideagostini.com/android)

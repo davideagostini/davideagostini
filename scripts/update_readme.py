@@ -199,7 +199,7 @@ def get_x_info(x_handle: str) -> tuple[dict[str, str], str]:
 
 
 def render_blog_block(posts: Iterable[dict[str, str]]) -> str:
-    lines = [f"- [{p['title']}]({p['url']})" for p in posts]
+    lines = [f"- [{p['title']}]({p['url']}) ({p['date']})" for p in posts]
     return "\n".join(lines)
 
 
