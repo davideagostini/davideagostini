@@ -17,6 +17,10 @@ X_START = "<!-- X-INFO:START -->"
 X_END = "<!-- X-INFO:END -->"
 
 POST_URL_PATTERN = re.compile(r"/android/(\d{4}-\d{2}-\d{2})-[a-z0-9-]+/?$")
+JSON_LD_PATTERN = re.compile(
+    r'<script[^>]+type="application/ld\+json"[^>]*>(.*?)</script>',
+    flags=re.DOTALL | re.IGNORECASE,
+)
 
 
 class AnchorParser(HTMLParser):
@@ -60,6 +64,48 @@ def fetch_json(url: str) -> object:
 
 
 def extract_blog_posts(blog_url: str, html: str, limit: int = 5) -> list[dict[str, str]]:
+    json_ld_posts: list[dict[str, str]] = []
+    for raw_script in JSON_LD_PATTERN.findall(html):
+        try:
+            data = json.loads(raw_script.strip())
+        except json.JSONDecodeError:
+            continue
+
+        values = data if isinstance(data, list) else [data]
+        for value in values:
+            if not isinstance(value, dict):
+                continue
+            main_entity = value.get("mainEntity")
+            if not isinstance(main_entity, dict):
+                continue
+            elements = main_entity.get("itemListElement")
+            if not isinstance(elements, list):
+                continue
+            for element in elements:
+                if not isinstance(element, dict):
+                    continue
+                url = str(element.get("url") or "")
+                name = str(element.get("name") or "").strip()
+                if not url:
+                    continue
+                path = "/" + url.split("//", 1)[-1].split("/", 1)[-1]
+                if "?" in path:
+                    path = path.split("?", 1)[0]
+                if "#" in path:
+                    path = path.split("#", 1)[0]
+                match = POST_URL_PATTERN.search(path)
+                if not match:
+                    continue
+                json_ld_posts.append({"title": name or path.rsplit("/", 1)[-1].replace("-", " ").title(), "url": url, "date": match.group(1)})
+
+    if json_ld_posts:
+        deduped: dict[str, dict[str, str]] = {}
+        for post in json_ld_posts:
+            deduped[post["url"]] = post
+        posts = list(deduped.values())
+        posts.sort(key=lambda item: item["date"], reverse=True)
+        return posts[:limit]
+
     parser = AnchorParser()
     parser.feed(html)
 
@@ -102,17 +148,68 @@ def extract_x_info(x_handle: str, raw: object) -> dict[str, str]:
     }
 
 
+def extract_x_info_from_profile_html(x_handle: str, html: str) -> dict[str, str] | None:
+    # Fallback parser for the inline X initial state payload.
+    screen_name = x_handle.lstrip("@")
+    pattern = re.compile(
+        rf'"screen_name":"{re.escape(screen_name)}".{{0,500}}?"name":"([^"]+)".{{0,1000}}?"followers_count":(\d+)',
+        flags=re.DOTALL,
+    )
+    match = pattern.search(html)
+    if not match:
+        return None
+    name = match.group(1)
+    followers = int(match.group(2))
+    return {
+        "name": name,
+        "screen_name": screen_name,
+        "followers": f"{followers:,}",
+        "url": f"https://x.com/{screen_name}",
+    }
+
+
+def get_x_info(x_handle: str) -> tuple[dict[str, str], str]:
+    params = urlencode({"screen_names": x_handle.lstrip("@")})
+    x_api = f"https://cdn.syndication.twimg.com/widgets/followbutton/info.json?{params}"
+    try:
+        payload = fetch_json(x_api)
+        return extract_x_info(x_handle=x_handle, raw=payload), "public endpoint"
+    except Exception:
+        pass
+
+    # If X blocks the endpoint, try extracting from profile HTML.
+    try:
+        profile_html = fetch_text(f"https://x.com/{x_handle.lstrip('@')}")
+        parsed = extract_x_info_from_profile_html(x_handle=x_handle, html=profile_html)
+        if parsed:
+            return parsed, "profile HTML"
+    except Exception:
+        pass
+
+    screen_name = x_handle.lstrip("@")
+    return (
+        {
+            "name": screen_name,
+            "screen_name": screen_name,
+            "followers": "unavailable",
+            "url": f"https://x.com/{screen_name}",
+        },
+        "unavailable",
+    )
+
+
 def render_blog_block(posts: Iterable[dict[str, str]]) -> str:
     lines = [f"- [{p['title']}]({p['url']})" for p in posts]
     return "\n".join(lines)
 
 
-def render_x_block(x_info: dict[str, str], checked_date: dt.date) -> str:
+def render_x_block(x_info: dict[str, str], checked_date: dt.date, source: str) -> str:
     return "\n".join(
         [
             f"- Profile: [@{x_info['screen_name']}]({x_info['url']})",
             f"- Name: {x_info['name']}",
             f"- Followers: {x_info['followers']}",
+            f"- Source: {source}",
             f"- Last checked: {checked_date.isoformat()}",
         ]
     )
@@ -142,13 +239,11 @@ def update_readme(
     if not posts:
         raise ValueError(f"No blog posts found in {blog_url}")
 
-    params = urlencode({"screen_names": x_handle.lstrip("@")})
-    x_api = f"https://cdn.syndication.twimg.com/widgets/followbutton/info.json?{params}"
-    x_info = extract_x_info(x_handle=x_handle, raw=fetch_json(x_api))
+    x_info, x_source = get_x_info(x_handle=x_handle)
     today = today or dt.date.today()
 
     updated = replace_between_markers(readme, BLOG_START, BLOG_END, render_blog_block(posts))
-    updated = replace_between_markers(updated, X_START, X_END, render_x_block(x_info, today))
+    updated = replace_between_markers(updated, X_START, X_END, render_x_block(x_info, today, x_source))
 
     if updated == readme:
         return False

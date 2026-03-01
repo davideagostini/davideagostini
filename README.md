@@ -43,10 +43,11 @@
   Latest posts:
 
 <!-- BLOG-POSTS:START -->
-- [Android Architecture Fundamentals: Layers, Boundaries, and Data Flow](https://www.davideagostini.com/android/2026-02-26-android-architecture-fundamentals)
-- [Hilt Dependency Injection Deep Dive](https://www.davideagostini.com/android/2026-02-18-hilt-di-deep-dive)
-- [WorkManager Deep Dive](https://www.davideagostini.com/android/2026-02-17-workmanager-deep-dive)
-- [Compose LazyColumn Stability Budget](https://www.davideagostini.com/android/2026-02-17-lazycolumn-stability-budget)
+- [Data Layer Foundations: Repository Pattern (Single Source of Truth)](https://davideagostini.com/android/2026-03-01-data-layer-foundations-repository-pattern-single-source-of-truth)
+- [Domain Layer Basics: Use Cases, Business Rules, and Testability](https://davideagostini.com/android/2026-02-28-domain-layer-basics-use-cases-business-rules-testability)
+- [UI Layer in Practice: State, Events, and UDF in Compose](https://davideagostini.com/android/2026-02-27-ui-layer-in-practice-state-events-and-udf-in-compose)
+- [Android Architecture Fundamentals: Layers, Boundaries, and Data Flow](https://davideagostini.com/android/2026-02-26-android-architecture-fundamentals)
+- [Baseline Profiles for Android: Faster Startup (Bad vs Good Patterns)](https://davideagostini.com/android/2026-02-25-baseline-profiles)
 <!-- BLOG-POSTS:END -->
 
   More: [davideagostini.com](https://www.davideagostini.com/android)
@@ -55,8 +56,10 @@
 
 <!-- X-INFO:START -->
 - Profile: [@davideagostini](https://x.com/davideagostini)
-- Followers: updating...
-- Last checked: updating...
+- Name: davideagostini
+- Followers: unavailable
+- Source: unavailable
+- Last checked: 2026-03-01
 <!-- X-INFO:END -->
 
   ## 📫 Connect

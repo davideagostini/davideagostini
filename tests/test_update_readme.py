@@ -15,6 +15,7 @@ from scripts.update_readme import (
     render_x_block,
     replace_between_markers,
     update_readme,
+    get_x_info,
 )
 
 
@@ -83,9 +84,18 @@ class UpdateReadmeTests(unittest.TestCase):
                 render_x_block(
                     {"name": "Davide Agostini", "screen_name": "davideagostini", "followers": "4,321", "url": "https://x.com/davideagostini"},
                     dt.date(2026, 3, 1),
+                    "public endpoint",
                 ),
                 updated,
             )
+
+    def test_get_x_info_fallback_unavailable(self):
+        with patch("scripts.update_readme.fetch_json", side_effect=ValueError("bad json")), patch(
+            "scripts.update_readme.fetch_text", side_effect=RuntimeError("network issue")
+        ):
+            x_info, source = get_x_info("davideagostini")
+        self.assertEqual("unavailable", source)
+        self.assertEqual("unavailable", x_info["followers"])
 
 
 if __name__ == "__main__":
