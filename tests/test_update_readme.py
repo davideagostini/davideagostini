@@ -83,8 +83,6 @@ class UpdateReadmeTests(unittest.TestCase):
             self.assertIn(
                 render_x_block(
                     {"name": "Davide Agostini", "screen_name": "davideagostini", "followers": "4,321", "url": "https://x.com/davideagostini"},
-                    dt.date(2026, 3, 1),
-                    "public endpoint",
                 ),
                 updated,
             )

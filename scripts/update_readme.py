@@ -203,16 +203,8 @@ def render_blog_block(posts: Iterable[dict[str, str]]) -> str:
     return "\n".join(lines)
 
 
-def render_x_block(x_info: dict[str, str], checked_date: dt.date, source: str) -> str:
-    return "\n".join(
-        [
-            f"- Profile: [@{x_info['screen_name']}]({x_info['url']})",
-            f"- Name: {x_info['name']}",
-            f"- Followers: {x_info['followers']}",
-            f"- Source: {source}",
-            f"- Last checked: {checked_date.isoformat()}",
-        ]
-    )
+def render_x_block(x_info: dict[str, str]) -> str:
+    return f"- Profile: [@{x_info['screen_name']}]({x_info['url']})"
 
 
 def replace_between_markers(content: str, start_marker: str, end_marker: str, replacement: str) -> str:
@@ -239,11 +231,10 @@ def update_readme(
     if not posts:
         raise ValueError(f"No blog posts found in {blog_url}")
 
-    x_info, x_source = get_x_info(x_handle=x_handle)
-    today = today or dt.date.today()
+    x_info, _ = get_x_info(x_handle=x_handle)
 
     updated = replace_between_markers(readme, BLOG_START, BLOG_END, render_blog_block(posts))
-    updated = replace_between_markers(updated, X_START, X_END, render_x_block(x_info, today, x_source))
+    updated = replace_between_markers(updated, X_START, X_END, render_x_block(x_info))
 
     if updated == readme:
         return False

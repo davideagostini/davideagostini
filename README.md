@@ -56,10 +56,6 @@
 
 <!-- X-INFO:START -->
 - Profile: [@davideagostini](https://x.com/davideagostini)
-- Name: davideagostini
-- Followers: unavailable
-- Source: unavailable
-- Last checked: 2026-03-01
 <!-- X-INFO:END -->
 
   ## 📫 Connect
