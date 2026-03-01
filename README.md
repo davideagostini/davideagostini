@@ -42,12 +42,22 @@
 
   Latest posts:
 
-  - [Android Architecture Fundamentals: Layers, Boundaries, and Data Flow](https://www.davideagostini.com/android/2026-02-26-android-architecture-fundamentals)
-  - [Hilt Dependency Injection Deep Dive](https://www.davideagostini.com/android/2026-02-18-hilt-di-deep-dive)
-  - [WorkManager Deep Dive](https://www.davideagostini.com/android/2026-02-17-workmanager-deep-dive)
-  - [Compose LazyColumn Stability Budget](https://www.davideagostini.com/android/2026-02-17-lazycolumn-stability-budget)
+<!-- BLOG-POSTS:START -->
+- [Android Architecture Fundamentals: Layers, Boundaries, and Data Flow](https://www.davideagostini.com/android/2026-02-26-android-architecture-fundamentals)
+- [Hilt Dependency Injection Deep Dive](https://www.davideagostini.com/android/2026-02-18-hilt-di-deep-dive)
+- [WorkManager Deep Dive](https://www.davideagostini.com/android/2026-02-17-workmanager-deep-dive)
+- [Compose LazyColumn Stability Budget](https://www.davideagostini.com/android/2026-02-17-lazycolumn-stability-budget)
+<!-- BLOG-POSTS:END -->
 
   More: [davideagostini.com](https://www.davideagostini.com/android)
+
+  ## 𝕏 Account
+
+<!-- X-INFO:START -->
+- Profile: [@davideagostini](https://x.com/davideagostini)
+- Followers: updating...
+- Last checked: updating...
+<!-- X-INFO:END -->
 
   ## 📫 Connect
 

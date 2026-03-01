@@ -1,0 +1,41 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run updater
+        run: |
+          python scripts/update_readme.py \
+            --readme README.md \
+            --blog-url "https://www.davideagostini.com/android" \
+            --x-handle "davideagostini" \
+            --posts-limit 5
+
+      - name: Commit and push changes
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update README posts and X info"
+            git push
+          else
+            echo "No README changes to commit."
+          fi
