@@ -43,11 +43,11 @@
   Latest posts:
 
 <!-- BLOG-POSTS:START -->
+- [Modularization 101: Feature Modules, Core Modules, and Gradle Strategy](https://davideagostini.com/android/2026-03-03-modularization-101-feature-modules-core-modules-and-gradle-strategy) (2026-03-03)
 - [MVVM Done Right: ViewModel Contracts, Side Effects, and Lifecycle](https://davideagostini.com/android/2026-03-02-mvvm-done-right-viewmodel-contracts-side-effects-and-lifecycle) (2026-03-02)
 - [Data Layer Foundations: Repository Pattern (Single Source of Truth)](https://davideagostini.com/android/2026-03-01-data-layer-foundations-repository-pattern-single-source-of-truth) (2026-03-01)
 - [Domain Layer Basics: Use Cases, Business Rules, and Testability](https://davideagostini.com/android/2026-02-28-domain-layer-basics-use-cases-business-rules-testability) (2026-02-28)
 - [UI Layer in Practice: State, Events, and UDF in Compose](https://davideagostini.com/android/2026-02-27-ui-layer-in-practice-state-events-and-udf-in-compose) (2026-02-27)
-- [Android Architecture Fundamentals: Layers, Boundaries, and Data Flow](https://davideagostini.com/android/2026-02-26-android-architecture-fundamentals) (2026-02-26)
 <!-- BLOG-POSTS:END -->
 
   More: [davideagostini.com](https://www.davideagostini.com/android)
