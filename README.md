@@ -43,11 +43,11 @@
   Latest posts:
 
 <!-- BLOG-POSTS:START -->
+- [Architecture for Security-Critical Features: Keystore, Biometrics, and Secret Boundaries](https://davideagostini.com/android/2026-03-06-architecture-for-security-critical-features-keystore-biometrics-secret-boundaries) (2026-03-06)
 - [Scalable Navigation Architecture: Nested Graphs, Type-Safe Routes, and Feature Isolation](https://davideagostini.com/android/2026-03-05-scalable-navigation-architecture-nested-graphs-type-safe-routes-feature-isolation) (2026-03-05)
 - [Offline-First Architecture: Room + Network Sync + Conflict Resolution](https://davideagostini.com/android/2026-03-04-offline-first-architecture-room-network-sync-conflict-resolution) (2026-03-04)
 - [Modularization 101: Feature Modules, Core Modules, and Gradle Strategy](https://davideagostini.com/android/2026-03-03-modularization-101-feature-modules-core-modules-and-gradle-strategy) (2026-03-03)
 - [MVVM Done Right: ViewModel Contracts, Side Effects, and Lifecycle](https://davideagostini.com/android/2026-03-02-mvvm-done-right-viewmodel-contracts-side-effects-and-lifecycle) (2026-03-02)
-- [Data Layer Foundations: Repository Pattern (Single Source of Truth)](https://davideagostini.com/android/2026-03-01-data-layer-foundations-repository-pattern-single-source-of-truth) (2026-03-01)
 <!-- BLOG-POSTS:END -->
 
   More: [davideagostini.com](https://www.davideagostini.com/android)
