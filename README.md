@@ -4,9 +4,9 @@
   I build high-performance Android apps and scalable mobile ecosystems, with strong interest in AI, LLM integration, and AI agents for developer and product workflows.
 
   ## 📱 Featured Projects
-  
-  - [Android Build Analyzer](https://github.com/davideagostini/android-build-analyzer): Gradle plugin for project analysis and optimization
+
   - [AI Dev Skills](https://github.com/davideagostini/ai-dev-skills): Reusable skills for Codex, Claude Code, and Gemini CLI: Android, GitHub, CI, code review, and release workflows
+  - [Android Build Analyzer](https://github.com/davideagostini/android-build-analyzer): Gradle plugin for project analysis and optimization
   - [ViaMetric](https://viametric.app): AI search visibility analytics platform (NextJS, vector DBs, APIs)
   - [Notyze](https://github.com/davideagostini/notyze): note-taking backend with Ktor, MongoDB, JWT, Clean Architecture
   - [Translate AI Extension](https://github.com/davideagostini/translate-ai-extension): privacy-first AI translation/summarization Chrome extension
