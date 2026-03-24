@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Davide Agostini
+  ## Welcome
 
   Senior Android Engineer focused on Performance Optimization, Jetpack Compose, and Kotlin Multiplatform.
   I build high-performance Android apps and scalable mobile ecosystems, with strong interest in AI, LLM integration, and AI agents for developer and product workflows.
