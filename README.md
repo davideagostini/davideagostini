@@ -1,72 +1,20 @@
 # 👋 Hi, I'm Davide Agostini
 
   Senior Android Engineer focused on Performance Optimization, Jetpack Compose, and Kotlin Multiplatform.
-  Based in Sicily, Italy 🇮🇹.
-
   I build high-performance Android apps and scalable mobile ecosystems, with strong interest in AI, LLM integration, and AI agents for developer and product workflows.
 
-  ## 🛠️ Core Skills
-
-  - ⚡ Performance optimization (Compose rendering, memory profiling, APK size)
-  - 🎨 Jetpack Compose (large-scale UI architecture, state management, custom layouts)
-  - 🏗️ System design (offline-first, Clean Architecture, MVVM/MVI)
-  - 🤖 AI & AI agents (on-device AI, ML Kit, agent-assisted product features)
-
-  ## 💼 Experience
-
-  Lead Android Engineer — Synapses (2017–Present)
-  Leading Android development for BlueGPS, an indoor navigation platform:
-
-  - Scalable architecture for high-precision positioning
-  - Battery optimization for continuous background tracking
-  - Real-time map rendering with Jetpack Compose
-
-  Freelance Android Developer
-
-  - [Prestofood](https://www.foodys.it/): high-traffic food delivery app, real-time tracking, push notifications, payments
-  - Arm23: biometric auth, encrypted local storage, privacy-focused data handling
-  - [Red Raion](https://redraion.com/): immersive VR apps with 3D rendering and sensor integration
-
-  Computer Science Educator (2011–2018)
-  Taught Android with Kotlin, OOP, data structures, algorithms, and mobile best practices.
-
   ## 📱 Featured Projects
-
+  
+  - [Android Build Analyzer](https://github.com/davideagostini/android-build-analyzer): Gradle plugin for project analysis and optimization
+  - [AI Dev Skills](https://github.com/davideagostini/ai-dev-skills): Reusable skills for Codex, Claude Code, and Gemini CLI: Android, GitHub, CI, code review, and release workflows
   - [ViaMetric](https://viametric.app): AI search visibility analytics platform (NextJS, vector DBs, APIs)
   - [Notyze](https://github.com/davideagostini/notyze): note-taking backend with Ktor, MongoDB, JWT, Clean Architecture
   - [Translate AI Extension](https://github.com/davideagostini/translate-ai-extension): privacy-first AI translation/summarization Chrome extension
   - [Tintracker](https://github.com/davideagostini/tintracker): offline-first earnings tracker with Compose, Room, Hilt
-  - [Android Build Analyzer](https://github.com/davideagostini/android-build-analyzer): Gradle plugin for project analysis and optimization
 
-  ## 📝 Writing
+  ## 📫 Follow me on
 
-  Latest posts:
-
-<!-- BLOG-POSTS:START -->
-- [Evolving Architecture: Refactoring Legacy Apps Toward Clean + Modular](https://davideagostini.com/android/2026-03-09-evolving-architecture-refactoring-legacy-apps-toward-clean-modular) (2026-03-09)
-- [Architecture for Security-Critical Features: Keystore, Biometrics, and Secret Boundaries](https://davideagostini.com/android/2026-03-06-architecture-for-security-critical-features-keystore-biometrics-secret-boundaries) (2026-03-06)
-- [Scalable Navigation Architecture: Nested Graphs, Type-Safe Routes, and Feature Isolation](https://davideagostini.com/android/2026-03-05-scalable-navigation-architecture-nested-graphs-type-safe-routes-feature-isolation) (2026-03-05)
-- [Offline-First Architecture: Room + Network Sync + Conflict Resolution](https://davideagostini.com/android/2026-03-04-offline-first-architecture-room-network-sync-conflict-resolution) (2026-03-04)
-- [Modularization 101: Feature Modules, Core Modules, and Gradle Strategy](https://davideagostini.com/android/2026-03-03-modularization-101-feature-modules-core-modules-and-gradle-strategy) (2026-03-03)
-<!-- BLOG-POSTS:END -->
-
-  More: [davideagostini.com](https://www.davideagostini.com/android)
-
-  ## 𝕏 Account
-
-<!-- X-INFO:START -->
-- Profile: [@davideagostini](https://x.com/davideagostini)
-<!-- X-INFO:END -->
-
-  ## 📫 Connect
-
-  [Twitter](https://x.com/davideagostini) • [LinkedIn](https://www.linkedin.com/in/davideagostini/) • [Medium](https://davideagostini.medium.com/) • [Website](https://www.davideagostini.com)
-
-  ## 🤝 Open To
-
-  - Performance consulting (large-scale Compose optimization)
-  - Architecture reviews (mobile system design, Clean Architecture)
-  - Custom Android development
-  - AI/AI-agent feature prototyping and integration
-
-  Last updated: February 2026
+  - [Twitter](https://x.com/davideagostini) 
+  - [LinkedIn](https://www.linkedin.com/in/davideagostini/) 
+  - [Medium](https://davideagostini.medium.com/) 
+  - [Website](https://www.davideagostini.com)
