@@ -5,6 +5,7 @@
 
   ### 📱 Featured Projects
 
+  - [Quick Stack](https://github.com/davideagostini/quick-stack): Fast Android capture app built around the Quick Settings Tile for notes, clipboard, reminders, and pinned notifications
   - [AI Dev Skills](https://github.com/davideagostini/ai-dev-skills): Reusable skills for Codex, Claude Code, and Gemini CLI: Android, GitHub, CI, code review, and release workflows
   - [Android Build Analyzer](https://github.com/davideagostini/android-build-analyzer): Gradle plugin for project analysis and optimization
   - [ViaMetric](https://viametric.app): AI search visibility analytics platform (NextJS, vector DBs, APIs)
