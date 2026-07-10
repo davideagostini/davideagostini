@@ -6,6 +6,7 @@
   ### 📱 Featured Projects
 
   - [Dunio](https://github.com/davideagostini/dunio): Mobile-first Android app for shared household finance tracking with Firebase and Jetpack Compose
+  - [EyeBreak](https://github.com/davideagostini/eye-break): Eye Break is a small native macOS menu bar app that reminds you to rest your eyes and step away from the screen at regular intervals
   - [Quick Stack](https://github.com/davideagostini/quick-stack): Fast Android capture app built around the Quick Settings Tile for notes, clipboard, reminders, and pinned notifications
   - [AI Dev Skills](https://github.com/davideagostini/ai-dev-skills): Reusable skills for Codex, Claude Code, and Gemini CLI: Android, GitHub, CI, code review, and release workflows
   - [Android Build Analyzer](https://github.com/davideagostini/android-build-analyzer): Gradle plugin for project analysis and optimization
